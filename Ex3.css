@@ -1,0 +1,14 @@
+div{
+    width: 200px;
+    height:200px;
+    background:wheat;
+    font-size:30px;
+    text-align:center;
+    line-height:200px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: aqua;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+  }
